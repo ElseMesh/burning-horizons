@@ -1,0 +1,1286 @@
+{
+  "sourceRepository": "https://github.com/lozknowles/ElseMesh",
+  "sourceCommit": "95719848d5ffa4428b57c75c272483e1c2113a72",
+  "sourceSnapshotUrl": "https://github.com/lozknowles/ElseMesh/tree/95719848d5ffa4428b57c75c272483e1c2113a72",
+  "purpose": "World-content source materials and authoring references; not engine source or project-direction guidance.",
+  "files": [
+    {
+      "path": "CREDITS.md",
+      "sizeBytes": 9716,
+      "gitBlobSha": "4e5e8c6f2fd086a626bb78960b5989958a9efe04",
+      "sha256": "08463184a1b0a49976423593994704adb708c5fb5159e43745ef1cc78c788d0d"
+    },
+    {
+      "path": "docs/CAVE-SYSTEM-BRIEF.md",
+      "sizeBytes": 3649,
+      "gitBlobSha": "343ce67267184ec9331372ef5e210ea4ba0467aa",
+      "sha256": "3b3f281a9f44dbce443d82418dec2f2b4e22ef21e1452bebd265863e7be7d9ab"
+    },
+    {
+      "path": "docs/ISLAND-BIOME-AGENT-CONTROL.md",
+      "sizeBytes": 2944,
+      "gitBlobSha": "b68287f77afcc3bef01e5e55a679a97fd9bed99f",
+      "sha256": "5666db146283079be2412a991c2f06c8ea3a438bd2a8deb57fe1b8a928909d1a"
+    },
+    {
+      "path": "docs/ISLAND-FOUR-FOREST-VILLA.md",
+      "sizeBytes": 1879,
+      "gitBlobSha": "25ed64a34de9ba286bddb77c50987a768951ac42",
+      "sha256": "f24b64b47973ef051b924d17473733efec0ddb8675627fa0aac7e0f0d4373373"
+    },
+    {
+      "path": "docs/ISLAND3-PORTAL-RECIPE.md",
+      "sizeBytes": 7521,
+      "gitBlobSha": "c87878012c4966b40c6101080ddfbb11829469d5",
+      "sha256": "4dcb2cec09954d9372d739c0b9ec4d4ecfd6c5d8b214be7de58c541e49c2c904"
+    },
+    {
+      "path": "docs/PORTAL-WAREHOUSE.md",
+      "sizeBytes": 4446,
+      "gitBlobSha": "71b0260492da0bd82f3a0774b8d5ca9416120ec0",
+      "sha256": "18621318069369fb6e57fd023a19265006629b43b586b45f1391f7cd44bb88d1"
+    },
+    {
+      "path": "docs/THIRD-ISLAND-HELICOPTER.md",
+      "sizeBytes": 5680,
+      "gitBlobSha": "8e41ea38d7819b712d0006345d1fad4b68b0f096",
+      "sha256": "2ceda1e5647f5b75ecd80101f245e6ffbfa21a23983fd54946972ece924526e4"
+    },
+    {
+      "path": "docs/WORLD-EXPANSION-CONCEPT.md",
+      "sizeBytes": 3052,
+      "gitBlobSha": "632fd3ff6715e7339061292c7f75a2586c5bede0",
+      "sha256": "9d79c9f3de5ccc6dba616795e3a3df35178f2751d3818113a3b7c3aa7717bb61"
+    },
+    {
+      "path": "docs/world-expansion-map.svg",
+      "sizeBytes": 2973,
+      "gitBlobSha": "bf490c9d31948a9a8924f0323ca6957455e733f3",
+      "sha256": "96a9380666d3b09a90ce80198ea5c0b967a48045e4831bfb371225c42dd50a07"
+    },
+    {
+      "path": "public/audio/CREDITS.md",
+      "sizeBytes": 10394,
+      "gitBlobSha": "eb4201da95df701de81dd65d4265b8a2eedc0abf",
+      "sha256": "1ce3b28a2a36237bb3ab101bd0e7e2accff37475e95d16f8e27d420b11605207"
+    },
+    {
+      "path": "public/audio/bail_click.ogg",
+      "sizeBytes": 13369,
+      "gitBlobSha": "52d88f95ca62a5f3dce0ccce42263f93389bd491",
+      "sha256": "42236eb210ce7a0cc54b28c13e5d5dd00e0782ecde3b3a61561a177bb0f5cabc"
+    },
+    {
+      "path": "public/audio/big_splash.ogg",
+      "sizeBytes": 31718,
+      "gitBlobSha": "27bbe2d67127b8161da5cd0c76115e7f7ed6ac2f",
+      "sha256": "b3401965c8536d93dffa62a793ca45a34b185d0d0bb28f58f16b35a19990c38e"
+    },
+    {
+      "path": "public/audio/bird_dove.ogg",
+      "sizeBytes": 128894,
+      "gitBlobSha": "c1d5983d383ba638c5492c8c6154d20cb04b6d10",
+      "sha256": "156f11da57c25ab4ee05af27a2d38f01195bad8283f1ee2424c0e6e185f7b6c9"
+    },
+    {
+      "path": "public/audio/bird_forest.ogg",
+      "sizeBytes": 159596,
+      "gitBlobSha": "92388eab613f6da9ac8c566127a6df15a7b6b2c6",
+      "sha256": "a5368bcbbaae5b7521322f225cab99f644abab975c6c5db1a17b9232ada6f032"
+    },
+    {
+      "path": "public/audio/birds_dawn.ogg",
+      "sizeBytes": 378131,
+      "gitBlobSha": "f7b2c6d7de42031f8f49d7c2586132c2b244cd5a",
+      "sha256": "4647b53f1409faab746a18f946e76b4f4002ec6821c2be62e6f9a4f40da694a4"
+    },
+    {
+      "path": "public/audio/boat_engine.ogg",
+      "sizeBytes": 411828,
+      "gitBlobSha": "6f160303f19a02ddc20fd369c2590f0c3994ef90",
+      "sha256": "9ae124875c9290c1f3b57f5fe4504b640e0f131949ddc7f278b3725d616137d9"
+    },
+    {
+      "path": "public/audio/boat_lap.ogg",
+      "sizeBytes": 293262,
+      "gitBlobSha": "73f333b2769ecfc181433eac46cc22ab25a6d336",
+      "sha256": "90c0b619f22842e8625520e36d6da6cad6d3cf21ade49c36a77d03ddcbde9bb8"
+    },
+    {
+      "path": "public/audio/boat_rush.ogg",
+      "sizeBytes": 318170,
+      "gitBlobSha": "4be1aaa7c615a8079881f7549e78d894fae04fbe",
+      "sha256": "c5ea66614be5bce2787ba4ee8478433c18fd3e80e7b2bafa5365664ecf72ca5e"
+    },
+    {
+      "path": "public/audio/coins.ogg",
+      "sizeBytes": 15872,
+      "gitBlobSha": "b249e1f8667cfa66599b4499e61f0a92cba2af5b",
+      "sha256": "caf26599903959eb27f5b3660e8c6f3c9d317917848a86174e16f4b465ab5e92"
+    },
+    {
+      "path": "public/audio/crickets.ogg",
+      "sizeBytes": 341489,
+      "gitBlobSha": "b5ec27d9267490578f39afb83fc37e203704d141",
+      "sha256": "01b41d7e8fc719373f77f41f3936e8ccfdfee4aadea1a1dd1120206b2115d76c"
+    },
+    {
+      "path": "public/audio/emerge.ogg",
+      "sizeBytes": 9254,
+      "gitBlobSha": "345fc567e646f4b3da32a8cb5d8ce8b8802178f5",
+      "sha256": "6b06f80b49a1dc03daa0ec0bc02e6a0b68c8d36c2af16cbaf0a9874bb4320759"
+    },
+    {
+      "path": "public/audio/esmie/intro.wav",
+      "sizeBytes": 1306668,
+      "gitBlobSha": "7c45cdfebbb67309a01fb5f0c2931dbcd349d347",
+      "sha256": "f0386daba08ce5767eda357ded27a4219509dae41710dcf70d8a2c04b9749871"
+    },
+    {
+      "path": "public/audio/esmie/manifest.json",
+      "sizeBytes": 2424,
+      "gitBlobSha": "6d93715391a1746958cdfb585b2eb33248c3fc8c",
+      "sha256": "182201bad7eaa1ba57e018508bf46bace36e4a44b826a2258599b2f2bceed780"
+    },
+    {
+      "path": "public/audio/esmie/memory-arthurs-seat.wav",
+      "sizeBytes": 335404,
+      "gitBlobSha": "1ba02fedf537a421e07fdd1b10cccf386bce3c9a",
+      "sha256": "ff7acd07a6b7a505e428ed9ddcf1f877ec319af348459623faa4bd8e18672692"
+    },
+    {
+      "path": "public/audio/esmie/memory-calton-hill.wav",
+      "sizeBytes": 308268,
+      "gitBlobSha": "7a8a96b965f6f283e84c8c0ce1873386dee8f2a5",
+      "sha256": "fcbe6e13122f9968899d3cff33e71d0dabe234a37f585e0fc43e2eb2e2552288"
+    },
+    {
+      "path": "public/audio/esmie/memory-castle.wav",
+      "sizeBytes": 326188,
+      "gitBlobSha": "0d066a45f4d2c5489b72b3369595d3521902b575",
+      "sha256": "3059af3438dad48aa23c14bc1495cebd6369f642454000e75587f322e9f72ede"
+    },
+    {
+      "path": "public/audio/esmie/memory-greyfriars.wav",
+      "sizeBytes": 285228,
+      "gitBlobSha": "15c83cd299b4d22fd15597cffb3c2f7345a4332f",
+      "sha256": "3730d93e52e3e3020cf74d87c8036e579bf5078a0dd4ad04d0d724cfddd05402"
+    },
+    {
+      "path": "public/audio/esmie/memory-royal-mile.wav",
+      "sizeBytes": 392236,
+      "gitBlobSha": "f4323943575509ee546887810752520e9d827473",
+      "sha256": "70a7b2b5e09c4e607fa45ad9346b40b81c03c562fe40a8eb75e101347e5a67c4"
+    },
+    {
+      "path": "public/audio/esmie/memory-water-of-leith.wav",
+      "sizeBytes": 344108,
+      "gitBlobSha": "f227d3fb8a6d18f3a625f0d26eab499a9261eb38",
+      "sha256": "58c853fab75b21097520627b2901061a383964720c5be15f24bd26d9fa8e752a"
+    },
+    {
+      "path": "public/audio/esmie/memory-waverley.wav",
+      "sizeBytes": 324140,
+      "gitBlobSha": "4e0c8f1fed76ad55b6a894d9a53d562b51a5f68b",
+      "sha256": "1b325940c69ebd4f2380dc31131a59b9cca46b505c2fc214ac3a18999e5cd002"
+    },
+    {
+      "path": "public/audio/fish_flop.ogg",
+      "sizeBytes": 25121,
+      "gitBlobSha": "9ad79eb7527a208654d16e08a0334238f3d7ba03",
+      "sha256": "c1425bfbd966e387409f83c8c1aa16c8a553703957b24af46b4c863776eb0c87"
+    },
+    {
+      "path": "public/audio/fish_splash.ogg",
+      "sizeBytes": 38203,
+      "gitBlobSha": "c5460c1fc35cba6d4cdd31dd55288707cceba831",
+      "sha256": "7c3b51bdf54b08bd53364aceb603c19e6e6c7f961f9d8f7385fac65d269e5897"
+    },
+    {
+      "path": "public/audio/gull.ogg",
+      "sizeBytes": 55921,
+      "gitBlobSha": "a946b4069925c7701d7d26dada9fcde89e73d5b9",
+      "sha256": "467dd8e48f66c5b497f051c622ca7f753b9bf30eaf1ca7b9162b8e234bb674bb"
+    },
+    {
+      "path": "public/audio/hull_slap.ogg",
+      "sizeBytes": 27436,
+      "gitBlobSha": "4d6696e73f3771bba3e48a52cd1e88f56fac8b4c",
+      "sha256": "a0d74ee5d1dc174de4a2806090bfa4005999dfa9a038cb2067bd85f1ec1ef0f9"
+    },
+    {
+      "path": "public/audio/line_out.ogg",
+      "sizeBytes": 5795,
+      "gitBlobSha": "f01f79c862c4b0fd10546d2bc50750c3eb8829e7",
+      "sha256": "5fdf20746905ed2a1ca8a9dc2ca58cfa1e74762922413f6f0fa12bc1f5875409"
+    },
+    {
+      "path": "public/audio/line_snap.ogg",
+      "sizeBytes": 20929,
+      "gitBlobSha": "64b40d144f52001ecfe79cca56041ed9adf77572",
+      "sha256": "2a312b716065f7c676d56ed3b31b6ffef8194cbb00159337b2a65b9a998c860d"
+    },
+    {
+      "path": "public/audio/line_strain.ogg",
+      "sizeBytes": 9264,
+      "gitBlobSha": "767a8b00c01b36b94d50db6efa92b3adc7a87f01",
+      "sha256": "4f7e9604609b4d2daed797d85894f0c1f68b0242f34c980e4687664686a965d1"
+    },
+    {
+      "path": "public/audio/loz-rental/greeting.wav",
+      "sizeBytes": 215084,
+      "gitBlobSha": "37100aafdfd6f16290cbd63ea7c89ebd2aa5a373",
+      "sha256": "71c12c33230a70b611324be7b6f85b196aada948a9fa05307f15560e1023fd09"
+    },
+    {
+      "path": "public/audio/loz-rental/keys.wav",
+      "sizeBytes": 217004,
+      "gitBlobSha": "ace382c7218baf3e46f797e524c096677a9face8",
+      "sha256": "5dfb8568fa0967318e827e39fcee812bd89adc89d0fa0932ffedcbad45bbddac"
+    },
+    {
+      "path": "public/audio/palms.ogg",
+      "sizeBytes": 357078,
+      "gitBlobSha": "77a52f66564fa412e869e4a627740871b12cad59",
+      "sha256": "33c89a41d0e0592cb2b6fd5592fab4e7333b090dace7fd755334cc145ef51820"
+    },
+    {
+      "path": "public/audio/pier_lap.ogg",
+      "sizeBytes": 287231,
+      "gitBlobSha": "528985eb150fbb63c46ece2bf085d6ab776f2849",
+      "sha256": "e020be075543b148dfb2b47540a605c1a30d25e5d18206b945b949b96a32079a"
+    },
+    {
+      "path": "public/audio/plop.ogg",
+      "sizeBytes": 11220,
+      "gitBlobSha": "54595c96816594dd8fcd554108103235a773e927",
+      "sha256": "b648df37071652a2335aa34f3a73e03aeb3bd8201c26d65951ebac0779b6c6f7"
+    },
+    {
+      "path": "public/audio/reel_drag.ogg",
+      "sizeBytes": 38165,
+      "gitBlobSha": "16f6291a491360af2f09c69323d42ca9fd177246",
+      "sha256": "e22d713852e49557b535b9e08cb35911a696935eb87e67ee7b1e9490d0ed3085"
+    },
+    {
+      "path": "public/audio/reel_wind.ogg",
+      "sizeBytes": 70632,
+      "gitBlobSha": "971f937deddf477d2c1b61a953e21079c752281e",
+      "sha256": "6783e26b193865bf0c143e61c0b1c63a18f554fd21e9ef6f4b9f5997fde0d61f"
+    },
+    {
+      "path": "public/audio/rod_swish.ogg",
+      "sizeBytes": 24086,
+      "gitBlobSha": "f3f7538519d167a2aa16d2f437854ebb25a2fc59",
+      "sha256": "5637f21cc6d11e6e16f1806997267117bb34e0a190277f2569c5ba8f1f234184"
+    },
+    {
+      "path": "public/audio/splash.ogg",
+      "sizeBytes": 63034,
+      "gitBlobSha": "38bd0f259b4835b72f851a17cdf94828db82942d",
+      "sha256": "9de4dab53ab34891dcfe14be3160c5cb6770364e007c83cec8d0d79065a49ee0"
+    },
+    {
+      "path": "public/audio/step_grass.ogg",
+      "sizeBytes": 19268,
+      "gitBlobSha": "b8903cf62e9ca873d83ca8679e0f7b2dfcfca774",
+      "sha256": "31be902e1ddf2530867d447cc3ae602a03c9aa60293d515f27359dbafd5ceb87"
+    },
+    {
+      "path": "public/audio/step_rock.ogg",
+      "sizeBytes": 21541,
+      "gitBlobSha": "92544f5e5d34a2dd8127c2943f4a986d763f5bc1",
+      "sha256": "82b0a1bb6344b982c789988d99d9d324493ea0a1e7fd1668c0ca2081e8895157"
+    },
+    {
+      "path": "public/audio/step_sand.ogg",
+      "sizeBytes": 22902,
+      "gitBlobSha": "9a5ae6d959a4b53a0269f03d04e05e87918a728c",
+      "sha256": "3128efca52668d0aad8ec243963a691b969e2327c5c740f41c71fe624c96242e"
+    },
+    {
+      "path": "public/audio/step_water.ogg",
+      "sizeBytes": 37998,
+      "gitBlobSha": "233eb7cdf68c786dfaebe219b48ec703eee46b34",
+      "sha256": "e8b03fa5acd8d09286e1b3907b5c86dbcfaa6064afe59cb375a37b4abac7636e"
+    },
+    {
+      "path": "public/audio/step_wetsand.ogg",
+      "sizeBytes": 17584,
+      "gitBlobSha": "654b57f2e63fc290f4b290e921b6a9116a5b76ef",
+      "sha256": "c48ebf1ee3124be44d5348689b0e2c32513370c6975d27bde509d6a42a05c9b4"
+    },
+    {
+      "path": "public/audio/step_wood.ogg",
+      "sizeBytes": 22476,
+      "gitBlobSha": "fdd4e59a647b39f514fb186105a2519df4eb7cab",
+      "sha256": "90cb5daf01a8f122bf0a08504f2216869008b0943e588c4bc637f1bd187210d8"
+    },
+    {
+      "path": "public/audio/submerge.ogg",
+      "sizeBytes": 15989,
+      "gitBlobSha": "474922afc58e35ffb61d3a5462d4a1c5cc821e2d",
+      "sha256": "56b2f265bb453da7daf1775ca9d2a9c3e6366758d0c0d906b791c4996bdd36c2"
+    },
+    {
+      "path": "public/audio/surf_backwash.ogg",
+      "sizeBytes": 108825,
+      "gitBlobSha": "051af71d71825aa79104961adc298d6d75d7580f",
+      "sha256": "9e771de117448c7d672c888a472777a9074b63ab904a5c121f5624f4f4fa4b81"
+    },
+    {
+      "path": "public/audio/surf_crash.ogg",
+      "sizeBytes": 132426,
+      "gitBlobSha": "9779455f7c45a0d646bc232c1a9b2e9c3119a03b",
+      "sha256": "9e09d4ec25c4b31114f7c44c1a2a57e8d84589caa64592817df5b79d8174e6ea"
+    },
+    {
+      "path": "public/audio/surf_far.ogg",
+      "sizeBytes": 365150,
+      "gitBlobSha": "b25de23dc5181765fd401ca03d3a6c100c4ba256",
+      "sha256": "a4c0068c83ae7752c0b666cf06548ac917aefd61bb49f970d9f19d52b4f7eaa4"
+    },
+    {
+      "path": "public/audio/surf_wash.ogg",
+      "sizeBytes": 75291,
+      "gitBlobSha": "4cdf54b120560f9d18db9d2c04c8e72eb527a71b",
+      "sha256": "cad02b8c23a584290da4a7e73742e9477d4088d927aae19c1b852f1cf53619c7"
+    },
+    {
+      "path": "public/audio/swim.ogg",
+      "sizeBytes": 29543,
+      "gitBlobSha": "0fd87a0f13a55a01451966892bd598061a2dce8c",
+      "sha256": "cf45000f1b0ad2b0f330b2dde654a53ea64ce3484301d024c32bd57dd32bffdc"
+    },
+    {
+      "path": "public/audio/tern.ogg",
+      "sizeBytes": 108719,
+      "gitBlobSha": "05be93d4e325bb8f2c34dc2c84dc03791a9a4a79",
+      "sha256": "981c538c1db50380f3a7afe04656f7b08d60ebd1c1be84fcc6052f70d7175559"
+    },
+    {
+      "path": "public/audio/under_reef.ogg",
+      "sizeBytes": 412371,
+      "gitBlobSha": "c2d028cfdafb85cb0c255d53149d857db5512c53",
+      "sha256": "121952cc2e09a3a30712e2d1038a00366e2cbad3dccf1fa2388261487028249f"
+    },
+    {
+      "path": "public/audio/uw_swim.ogg",
+      "sizeBytes": 37646,
+      "gitBlobSha": "53bdb7e545966e73069ca3214b6093333d932bf8",
+      "sha256": "b52eae0e40747edb6f84e12f0bf62674e667004204cc35929182c73abd98b00f"
+    },
+    {
+      "path": "public/audio/whale_blow.ogg",
+      "sizeBytes": 37617,
+      "gitBlobSha": "9b5c8c9994ff7e8e8614ed4d4b03534924a43d70",
+      "sha256": "549b6b6c1fcba1617d30b632332d21a168e48cde7f1cfad5906b64096d057e0f"
+    },
+    {
+      "path": "public/audio/whale_song.ogg",
+      "sizeBytes": 373991,
+      "gitBlobSha": "6b79cb7aad30fac816856c963e9b71aaf4556035",
+      "sha256": "5452f85dda448630503eacee842737b72a6731bfa4989edd7e4df7e6eb8de45f"
+    },
+    {
+      "path": "public/audio/wind.ogg",
+      "sizeBytes": 415921,
+      "gitBlobSha": "b7a6f66bb1f24d4a21fbb945d65cf59513088ba0",
+      "sha256": "3e5d45f75364bf797f375061ed0232724e0570c1ff8f64c4c97498093e1789ec"
+    },
+    {
+      "path": "public/models/buildings/abandoned-warehouse.glb",
+      "sizeBytes": 40703788,
+      "gitBlobSha": "9d0dfca0c2a0ce933e96059459b69627494ff6f5",
+      "sha256": "12112f1687dc2a0ee98ad65878cd8c6a5b2649125672d418ac2c0056941cbcfa"
+    },
+    {
+      "path": "public/models/buildings/forest-cabin.glb",
+      "sizeBytes": 8289512,
+      "gitBlobSha": "b783c96114388972ef2e153ddd5afc3023de5a8d",
+      "sha256": "d63b2edf668272d53c1217e9413f3810b94e548b4ea56313c2cf3a264c457d6c"
+    },
+    {
+      "path": "public/models/characters/LICENSE-Rocketbox.md",
+      "sizeBytes": 1066,
+      "gitBlobSha": "9bcfb3ece5301a55d3a41bbd00a029ab27d61d13",
+      "sha256": "17474e386e0b9e1a700cc3d06b2b0882a2c376d9c6b49c7f8274409b8f8d2352"
+    },
+    {
+      "path": "public/models/characters/avatar-female.png",
+      "sizeBytes": 434013,
+      "gitBlobSha": "58adfb9b4ce686b7255ac75d93cf21ecb1306d43",
+      "sha256": "b380856dcfa982bdb178317530d1d7b8331b26a1f01cb9aa08d0b55ac2c502ce"
+    },
+    {
+      "path": "public/models/characters/avatar-male.png",
+      "sizeBytes": 448126,
+      "gitBlobSha": "a9b511103ee48f36ed64f0d59eae7ed9f5a5daef",
+      "sha256": "022f5cd70091203ed8c64734ff859b0b57af62ba06cfa4ba34d31b333f715c5a"
+    },
+    {
+      "path": "public/models/characters/joe.glb",
+      "sizeBytes": 4743204,
+      "gitBlobSha": "3cce632b9dc41adcc22114104e899c99fe1f4382",
+      "sha256": "da3efce5a452d3c17f40b8d33bf449f565c0a6bef93602dc3e74364fb64081ca"
+    },
+    {
+      "path": "public/models/characters/marta.glb",
+      "sizeBytes": 5507076,
+      "gitBlobSha": "b3970013d8c513b3d4af4d3897623f1a58e8c18e",
+      "sha256": "2b5eb048c75d37a6815cfc2770ca87dcaba1729b72779f1557c4f4d13b3ba75a"
+    },
+    {
+      "path": "public/models/characters/scanned-explorer.glb",
+      "sizeBytes": 10908516,
+      "gitBlobSha": "129904326f4c2f32e5b2af8ae6a04df87eaa2738",
+      "sha256": "d1b378b8c397d2fbe4a2377935a9e43176fead4f24feae535a226ba45a3b8aa6"
+    },
+    {
+      "path": "public/models/characters/stock-female.glb",
+      "sizeBytes": 4379404,
+      "gitBlobSha": "e88d4b1fdfa22934c76d0764fa5e6fe9e0a9d580",
+      "sha256": "36da74249450dda25bb2f5f1db32c1aa58fe3d693f2466762b942849584dda07"
+    },
+    {
+      "path": "public/models/characters/stock-player.glb",
+      "sizeBytes": 4481780,
+      "gitBlobSha": "a61fc201e62ce9ccb0ad1d3c7cc8a352106a071a",
+      "sha256": "6b1ab15b8dfb5c8b03df44b956b8122dc3d0d911f038eafdbcd5e4ca0c944ca0"
+    },
+    {
+      "path": "public/models/debris/CREDITS.md",
+      "sizeBytes": 1390,
+      "gitBlobSha": "2ef257c4db6ac11e772a5466eb3f3d9d91de4c3a",
+      "sha256": "97798436efce4cb6302d6fd4c508b064c39a2095e4642b87fb0380b3360f168e"
+    },
+    {
+      "path": "public/models/debris/dead_quiver_branch_01.glb",
+      "sizeBytes": 107568,
+      "gitBlobSha": "788b363d64aa40711801221cfb6c49fcd8c0e0f4",
+      "sha256": "223c1325855bb5428bef0ed94729b38b19f48933512c67a10c62197dd1a6a328"
+    },
+    {
+      "path": "public/models/debris/dead_quiver_branch_01_albedo.jpg",
+      "sizeBytes": 720703,
+      "gitBlobSha": "038b1ebf6f376b082ad0dfcf796083d1c6cf4f46",
+      "sha256": "2da1b4bdd5ea430d7ad1ba2fb547bf4f18d9def6f711781be89972e004757d2a"
+    },
+    {
+      "path": "public/models/debris/dead_quiver_branch_01_arm.jpg",
+      "sizeBytes": 595028,
+      "gitBlobSha": "1c4bc55117ac748b513e8bdc87afad50787c5cad",
+      "sha256": "9fc47d37b740a409fea889edc7f2d7bedac3d970a3a506092e18cfca10d2ed82"
+    },
+    {
+      "path": "public/models/debris/dead_quiver_branch_01_normal.jpg",
+      "sizeBytes": 1023490,
+      "gitBlobSha": "1fc84f214a504cd374ab06e6df417e6d56070b9a",
+      "sha256": "1d6603df36d0dd711d73e0ae2f067cd96f63d5e3ab0681d4a85bcb8df2049388"
+    },
+    {
+      "path": "public/models/debris/dead_quiver_branch_02.glb",
+      "sizeBytes": 106644,
+      "gitBlobSha": "357ee925251b6e6a48fd16d8aaa15d1a07d72b3f",
+      "sha256": "5dfac308be9c9c8f8e362e5e2596b000ae706d37afebf4ab9f68ff3b69fa0134"
+    },
+    {
+      "path": "public/models/debris/dead_quiver_branch_02_albedo.jpg",
+      "sizeBytes": 617273,
+      "gitBlobSha": "5c72aff393fcd1cc2c8c0601ca2cca0f2410a3f1",
+      "sha256": "6519bf7082bb3849c94a43a1f615a4a94547edd59217e05ab1351205eafd88da"
+    },
+    {
+      "path": "public/models/debris/dead_quiver_branch_02_arm.jpg",
+      "sizeBytes": 501350,
+      "gitBlobSha": "a0fc2ef3c99aa0bad5a6ca7761925c6151d1836c",
+      "sha256": "4cc11b6d5ffd457280ffc2652f40f27c25352447f03afaa0f3e8920b5f597280"
+    },
+    {
+      "path": "public/models/debris/dead_quiver_branch_02_normal.jpg",
+      "sizeBytes": 737343,
+      "gitBlobSha": "c6a3057732de2857cdb9801299e7c44fbf140356",
+      "sha256": "27007d93991058dcead6a52b877d86bc7f5b27a13e397d5a99e8f00562166533"
+    },
+    {
+      "path": "public/models/debris/dead_quiver_trunk.glb",
+      "sizeBytes": 128644,
+      "gitBlobSha": "2fe26c9233b7b6c9b5edc2a554c62edf008bedb8",
+      "sha256": "19a89e0b97270d816555cfe39f3c45a8cfd1452e77c41822219f0947b7d96f3c"
+    },
+    {
+      "path": "public/models/debris/dead_quiver_trunk_albedo.jpg",
+      "sizeBytes": 768713,
+      "gitBlobSha": "1e6fe281b339b44a1af83391c196d2c2465979b6",
+      "sha256": "53015f7dc3cc9a5ad360439b63c72d90402314201255495684bf6a6499aef7e0"
+    },
+    {
+      "path": "public/models/debris/dead_quiver_trunk_arm.jpg",
+      "sizeBytes": 514214,
+      "gitBlobSha": "9263cd2461403d3f88ac641d5394fde8a150011a",
+      "sha256": "7aa714956b606c2d4a929d4ab76490db4a45f23a1ec24c66f088867ef363f37a"
+    },
+    {
+      "path": "public/models/debris/dead_quiver_trunk_normal.jpg",
+      "sizeBytes": 573241,
+      "gitBlobSha": "944737030efcffbd647a37f3273e5ded7a634cef",
+      "sha256": "b3d987eba87112005529664455a82809da2325420021d494832dd8ba860eb62c"
+    },
+    {
+      "path": "public/models/debris/lambis_shell.glb",
+      "sizeBytes": 64276,
+      "gitBlobSha": "617ec04f16d11c26b2e8a0ca767cf04660cdd774",
+      "sha256": "46228f0775fc1e6bea37595d72c8b3080f8adf68fbb522264c6fbab21df15579"
+    },
+    {
+      "path": "public/models/debris/lambis_shell_albedo.jpg",
+      "sizeBytes": 785669,
+      "gitBlobSha": "e8c5485ae57781e55e2da25057701d493892e34f",
+      "sha256": "0b9296a51b8a157fff2245fced2a7723db9db4c7ea3e976802e1f9d3f93b7cc8"
+    },
+    {
+      "path": "public/models/debris/lambis_shell_arm.jpg",
+      "sizeBytes": 567463,
+      "gitBlobSha": "4cfecccab48664b928f88234a06322d2872b11d9",
+      "sha256": "360e5e637404cd8999914ba679d4bcc726b73016b69697631ba7ab33b31b4d2c"
+    },
+    {
+      "path": "public/models/debris/lambis_shell_normal.jpg",
+      "sizeBytes": 582208,
+      "gitBlobSha": "83c1c9828f553e80f00d1eea074119a469f1fe4c",
+      "sha256": "285344a5bd1ea5710fdd0447be0fb7b86bd2b5a8d67f1c93d01d4201d8f3e369"
+    },
+    {
+      "path": "public/models/port/CREDITS.md",
+      "sizeBytes": 3866,
+      "gitBlobSha": "af5517dca4d402874035e7288a846bf03a504319",
+      "sha256": "18a5fa138ff37d94996875f32de17bd777b47eb3fd3f40ec1921818a24e23359"
+    },
+    {
+      "path": "public/models/port/bracken-gatehouse.glb",
+      "sizeBytes": 593048,
+      "gitBlobSha": "e547fe45b4bda32f0ce1ec52fdbbd38343244832",
+      "sha256": "5790c83aa43ac623e9b07077c843714b16af4ac328957448622a2d81a4251cc5"
+    },
+    {
+      "path": "public/models/port/candidate-compact.glb",
+      "sizeBytes": 847588,
+      "gitBlobSha": "cab453e334956c4bc7a4c70e8fa4acf5fd7bfb26",
+      "sha256": "19c057fc5b39428533eb7e273a16ff539cac22c789ebd539513407e3aacfb61c"
+    },
+    {
+      "path": "public/models/port/candidate-estate.glb",
+      "sizeBytes": 2757584,
+      "gitBlobSha": "59caf35fc3c277c00c31eafcbfd531090405e83d",
+      "sha256": "301a208c0755e76c175e6c412c102d8517b9572ce4083c31d715d55552f6da91"
+    },
+    {
+      "path": "public/models/port/candidate-panel-van.glb",
+      "sizeBytes": 969388,
+      "gitBlobSha": "0e28cd4a15f1078265324d51f677c5e2ece7885d",
+      "sha256": "e9beba5ec1c96c5ee2424b6912d7c3b426f2cf5a3db9c8f777058b2751dbf9a9"
+    },
+    {
+      "path": "public/models/port/compact-lod1.glb",
+      "sizeBytes": 676472,
+      "gitBlobSha": "46434d20b607f1e08323776500b7e4c29fb1ba83",
+      "sha256": "fea4ddc734e193505a37d77ae2dfab19828b94ae13c892b96473e4c02bc19266"
+    },
+    {
+      "path": "public/models/port/estate-lod0.glb",
+      "sizeBytes": 3097972,
+      "gitBlobSha": "834c6ccc42523bc789b8b5409e45c40185986ae4",
+      "sha256": "6bab0f89cc23b319996b1893be950fef1056bc4b4ad1bce25710748c873751cc"
+    },
+    {
+      "path": "public/models/port/estate-lod1.glb",
+      "sizeBytes": 2430308,
+      "gitBlobSha": "46509974db4d2157de66cc06242cd70a1aaea1d9",
+      "sha256": "385bb6d12fba51fcf9cf0c931b1bcbcc051a44fdf2b13b9218f9457766318274"
+    },
+    {
+      "path": "public/models/port/ivy-trial/PROVENANCE.md",
+      "sizeBytes": 3067,
+      "gitBlobSha": "384e36fefedaef8cf755ca32d9194bc458e5ae5d",
+      "sha256": "a634735114df6212a3ffb6efe227bbc76a4a056642c62a56af5e3d981b773a72"
+    },
+    {
+      "path": "public/models/port/ivy-trial/building-ivy.glb",
+      "sizeBytes": 972896,
+      "gitBlobSha": "03fab870eac40cec077031810e6bca0d2c6f86a2",
+      "sha256": "25b422bb5f8a1aa469f855929c66a6ba3c72fd8b15520687f8c6169cfb657bf6"
+    },
+    {
+      "path": "public/models/port/ivy-trial/fence-ivy.glb",
+      "sizeBytes": 373800,
+      "gitBlobSha": "aa5f7c1fccb3c4573f07d7445a511458814cc67c",
+      "sha256": "de9d9389dfe5e6512eeb23ad5b5de39709e0fab3f6f3474e2505b229207aa4a7"
+    },
+    {
+      "path": "public/models/port/ivy-trial/ivy-leaf-source.png",
+      "sizeBytes": 1535885,
+      "gitBlobSha": "1865cb816ebe2cb466a6f29aa63a7bc254d5ca18",
+      "sha256": "1087adf5a5613983eb2399e7dc8df4ff03b698bbb9712513342e696e8f750600"
+    },
+    {
+      "path": "public/models/port/licensing/README.md",
+      "sizeBytes": 2565,
+      "gitBlobSha": "c06afd8c68adb7ab64a88ab3a254c3e12282be92",
+      "sha256": "edf2b2a8190dc206af4bc4b36f24f559e2a61e47e0378863519e6cc6f8f95c4d"
+    },
+    {
+      "path": "public/models/port/licensing/licenses/CC-BY-4.0.txt",
+      "sizeBytes": 17023,
+      "gitBlobSha": "13ca539f377dc705af32b8d2ce89262298ea2f06",
+      "sha256": "d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744"
+    },
+    {
+      "path": "public/models/port/licensing/licenses/MPL-2.0.txt",
+      "sizeBytes": 16727,
+      "gitBlobSha": "ee6256cdb62a765749a71aae3abea32884301cd1",
+      "sha256": "66a3107d5ad6a058aab753eaac2047ccb2ed0e39465dd0fe5844da3e300d5172"
+    },
+    {
+      "path": "public/models/port/licensing/openx-source/bracken_openx_derivative.py",
+      "sizeBytes": 7799,
+      "gitBlobSha": "1df53406a9085a50ea30faa51551147ee7db9a08",
+      "sha256": "dd924027010c5be30127406f9924c3552bed902f400652851af2bff1ba0d7dda"
+    },
+    {
+      "path": "public/models/port/licensing/openx-source/compact/candidate-compact.glb",
+      "sizeBytes": 847588,
+      "gitBlobSha": "cab453e334956c4bc7a4c70e8fa4acf5fd7bfb26",
+      "sha256": "19c057fc5b39428533eb7e273a16ff539cac22c789ebd539513407e3aacfb61c"
+    },
+    {
+      "path": "public/models/port/licensing/openx-source/compact/m1_mini_countryman_2016.blend",
+      "sizeBytes": 3145502,
+      "gitBlobSha": "4a222f903918c15582d2a91655c75e57408b907a",
+      "sha256": "1e2db705d3b9654e9a15ba41d9bcb6ad28cef6e6745f4d2360798ff9d8c07841"
+    },
+    {
+      "path": "public/models/port/licensing/openx-source/compact/m1_mini_countryman_2016.xoma",
+      "sizeBytes": 1642,
+      "gitBlobSha": "a7e687c1c1c2baf7bdc020470aa653ed419817d1",
+      "sha256": "bb2e18c5fe00e917b9a4ad23ed4265f377f528240d4df0a2938716c724e5b4bc"
+    },
+    {
+      "path": "public/models/port/licensing/openx-source/estate/candidate-estate.glb",
+      "sizeBytes": 2757584,
+      "gitBlobSha": "59caf35fc3c277c00c31eafcbfd531090405e83d",
+      "sha256": "301a208c0755e76c175e6c412c102d8517b9572ce4083c31d715d55552f6da91"
+    },
+    {
+      "path": "public/models/port/licensing/openx-source/estate/m1_volvo_v60_polestar_2013.blend",
+      "sizeBytes": 6592904,
+      "gitBlobSha": "9a82844078e3a5f20693516c55879a26a3fd65cc",
+      "sha256": "df68628ab41d110d74c56c8adafc6393b75ad7e25b9fdf65606ed17b79dfb99f"
+    },
+    {
+      "path": "public/models/port/licensing/openx-source/estate/m1_volvo_v60_polestar_2013.xoma",
+      "sizeBytes": 1610,
+      "gitBlobSha": "6768a6ab721259888c044abaeb8c8ad9267deb65",
+      "sha256": "635b4340b827fc75ad22c1d044115c9f33084a24495671f3ebf01f55f6f5b9a2"
+    },
+    {
+      "path": "public/models/port/licensing/openx-source/panel-van/candidate-panel-van.glb",
+      "sizeBytes": 969388,
+      "gitBlobSha": "0e28cd4a15f1078265324d51f677c5e2ece7885d",
+      "sha256": "e9beba5ec1c96c5ee2424b6912d7c3b426f2cf5a3db9c8f777058b2751dbf9a9"
+    },
+    {
+      "path": "public/models/port/licensing/openx-source/panel-van/n1_fiat_ducato_2014.blend",
+      "sizeBytes": 2854320,
+      "gitBlobSha": "cb77ca72241b63ecd4e9882ff15a76803adcfdec",
+      "sha256": "1fcbb4db2c2764bfc55aedcc6772462fcd338a1a5e720ada0ca9262d18bd32af"
+    },
+    {
+      "path": "public/models/port/licensing/openx-source/panel-van/n1_fiat_ducato_2014.xoma",
+      "sizeBytes": 1600,
+      "gitBlobSha": "31424acc736d60384a9f934db13bf437bff9b0e8",
+      "sha256": "209e812f3a9a6b3e3c9c50ca4b2c13634bb7f1c2491cc0a0d92ade2f53485c0b"
+    },
+    {
+      "path": "public/models/port/licensing/package-hashes.json",
+      "sizeBytes": 2024,
+      "gitBlobSha": "a7778714366c0e944f261a51b82d905fa72d2835",
+      "sha256": "df50a6c67dd8ee8a6de17f1741f383ef7b32def8e775a268fac6a10af0637157"
+    },
+    {
+      "path": "public/models/port/licensing/vehicle-manifest.json",
+      "sizeBytes": 1654,
+      "gitBlobSha": "48d58edeef40c57d263a248c43b8c1d874777698",
+      "sha256": "2016f74e2a88031688061737ccc0f441a734505f59fd18378aea0731b29c4174"
+    },
+    {
+      "path": "public/models/port/mmc-sedan-ai68.glb",
+      "sizeBytes": 15118560,
+      "gitBlobSha": "4ecb0640fc804a66638ad53c6c924a9c116dbfda",
+      "sha256": "90a80cdeffcc65495287eef476c69971bb0bd0bfde78d8f1283f5b62c920e256"
+    },
+    {
+      "path": "public/models/port/mmc-sedan-trial.glb",
+      "sizeBytes": 15097512,
+      "gitBlobSha": "8aad02c4cf7ad41c817da2a37aedbf83df0e22d0",
+      "sha256": "0db283af7daff4099533e8ae8866ce0518e485c5d358ce97cf4307d2e245409f"
+    },
+    {
+      "path": "public/models/port/panel-van-lod1.glb",
+      "sizeBytes": 766808,
+      "gitBlobSha": "e1e23062ed01690711e1313196356d753284156c",
+      "sha256": "d0883f4b77e9c99e386b6d6bad355afbe128cb42cafb7b8e772e9c0b87304b93"
+    },
+    {
+      "path": "public/models/props/CREDITS.md",
+      "sizeBytes": 3608,
+      "gitBlobSha": "979ca788a281de17b139b9d2a9a7c073204093db",
+      "sha256": "7477484e351f5592808f86f0569d6d3db08d5c82b9bcfe5e1fe9fecbdc352f40"
+    },
+    {
+      "path": "public/models/props/p_WoodenTable_03_0_a.jpg",
+      "sizeBytes": 48049,
+      "gitBlobSha": "e525aedff077286fc9d456b29670de96a803a59e",
+      "sha256": "941155536ebc3c00fd62035cab642b7061f72477ef824a573612de5175985363"
+    },
+    {
+      "path": "public/models/props/p_WoodenTable_03_0_n.jpg",
+      "sizeBytes": 50552,
+      "gitBlobSha": "b296113fa86ef5203e5fe7e78db57e15df9ec189",
+      "sha256": "80c38ffd9f72b54d840ff8d278dc382ba84e2eb8511a7c896e19ea9109fb94cc"
+    },
+    {
+      "path": "public/models/props/p_WoodenTable_03_0_r.jpg",
+      "sizeBytes": 76840,
+      "gitBlobSha": "c664932de71e25f616b8844e90f0046df56447f2",
+      "sha256": "f0b7052ace0b9827afbe7d26beefa5009a4da0a0060e897dfcd0b7a6ea13a6f7"
+    },
+    {
+      "path": "public/models/props/p_fish_knife_0_a.jpg",
+      "sizeBytes": 62747,
+      "gitBlobSha": "1da6a9d63a5c93f6bb2aa228487cadd5f28e7992",
+      "sha256": "71c6f06f04fd039367e3825e728fe5b27f9cc4a4702a9429361ccab06f70f8fa"
+    },
+    {
+      "path": "public/models/props/p_fish_knife_0_n.jpg",
+      "sizeBytes": 71662,
+      "gitBlobSha": "7e5fbd5fb8ae7a61a6dc9dff6ba319aabfc17cc4",
+      "sha256": "fdf758fd9c115f6b22711f1636a1b2c0fb45dcc99285d646d14dfc3ad16dc0cd"
+    },
+    {
+      "path": "public/models/props/p_fish_knife_0_r.jpg",
+      "sizeBytes": 98754,
+      "gitBlobSha": "48ac6b78055711c4cf1ae646243e9dd3b2a3b28c",
+      "sha256": "5497058bfb56aedeee74b86504bca9e52e5b2415cbed29117c2933df432e79d1"
+    },
+    {
+      "path": "public/models/props/p_fishermans_hat_0_a.jpg",
+      "sizeBytes": 36296,
+      "gitBlobSha": "b5a295ac89918f2ade189ecf2e53c43b5a2a3ea8",
+      "sha256": "40da7f194859ef0a52bd154cf0e8cffb2b097170c55e689a4606bd548e33f0c9"
+    },
+    {
+      "path": "public/models/props/p_fishermans_hat_0_n.jpg",
+      "sizeBytes": 71097,
+      "gitBlobSha": "71f1f3fe340493ac65ba1c0c1a31993267a4ed78",
+      "sha256": "d42ff8830693639131ea90dcc234bcd4b7d63afed1799ea16ae08fd942a75567"
+    },
+    {
+      "path": "public/models/props/p_fishermans_hat_0_r.jpg",
+      "sizeBytes": 66174,
+      "gitBlobSha": "134d8fbca34254118821512c8814573e63b87f7c",
+      "sha256": "4ba768ea5737f0999a49e6799bc882289c9b54a7a1a27bf1d55e04a320f5419e"
+    },
+    {
+      "path": "public/models/props/p_life_jacket_0_a.jpg",
+      "sizeBytes": 51197,
+      "gitBlobSha": "a0b718f714080304058d5acceda3fd2b4fdeaefe",
+      "sha256": "43cb5560344cedb38d1db497e28432c6f646833571290cda9c8cf00db1965362"
+    },
+    {
+      "path": "public/models/props/p_life_jacket_0_n.jpg",
+      "sizeBytes": 62218,
+      "gitBlobSha": "d672ed153e684936ce56d6f6fbee6ea7967f75f1",
+      "sha256": "5f36803c8a2fce1999951d29693a509319d70c01b68075cf81fa9946c502b28a"
+    },
+    {
+      "path": "public/models/props/p_life_jacket_0_r.jpg",
+      "sizeBytes": 69860,
+      "gitBlobSha": "9dd71241633ffb026df175537a29c4f70c9ebbb5",
+      "sha256": "fb496c385a6b31e509f84f00d75c3b4fb5d5acad16f76c95463a71dbd98d665e"
+    },
+    {
+      "path": "public/models/props/p_lifebuoy_0_a.jpg",
+      "sizeBytes": 77135,
+      "gitBlobSha": "51c2a85cb446386fb5ce1a6806f1738fd2712090",
+      "sha256": "b9dba33c840e6cca357eedc15b5f1daac756d6aac713255623ff1b04f3e38f26"
+    },
+    {
+      "path": "public/models/props/p_lifebuoy_0_n.jpg",
+      "sizeBytes": 90349,
+      "gitBlobSha": "6f4a0498a93e06cb2b1eb7da5030bab8c4a5bb33",
+      "sha256": "b5d46416427b8ed92b1a2369e9838b4eb77db77735ad558c46e227810c05f7a9"
+    },
+    {
+      "path": "public/models/props/p_lifebuoy_0_r.jpg",
+      "sizeBytes": 59734,
+      "gitBlobSha": "ac95d3fa21a97f53db9dfa0e5f61cf8e0b584250",
+      "sha256": "7a292cf89446d3b137dccf70daa570bd7ce98b6a092be94ef21defb664213f97"
+    },
+    {
+      "path": "public/models/props/p_metal_jerrycan_green_0_a.jpg",
+      "sizeBytes": 44244,
+      "gitBlobSha": "6d42babb9eb09c7f7daeff1d62d1c8eddb7f7c0c",
+      "sha256": "04a2b977dc8221ea5a980f902ea752cb846e1cca6f1340741bae9f553a7541e2"
+    },
+    {
+      "path": "public/models/props/p_metal_jerrycan_green_0_n.jpg",
+      "sizeBytes": 73176,
+      "gitBlobSha": "17ac82a1b7c5842fd5efc5cd9fe75dd102592ebf",
+      "sha256": "8ae04a5561e63c5c87cd1fabb2082f9be86b9adcdf65abc1730d533cb86d1de7"
+    },
+    {
+      "path": "public/models/props/p_metal_jerrycan_green_0_r.jpg",
+      "sizeBytes": 116307,
+      "gitBlobSha": "567615544a03b201e615e927e12bf8dd946a276b",
+      "sha256": "0659a22d506ad1355b9931600b10b56f5cb6c3762c27240b8f7dbdf31c51001b"
+    },
+    {
+      "path": "public/models/props/p_metal_toolbox_0_a.jpg",
+      "sizeBytes": 44712,
+      "gitBlobSha": "d45216d3a64b3a8fbaf037d538d2941fe07fa277",
+      "sha256": "5da452bc8438355894d6ecc108e46c31a4ed3c28b1731e66146c02f257a78fe0"
+    },
+    {
+      "path": "public/models/props/p_metal_toolbox_0_n.jpg",
+      "sizeBytes": 50139,
+      "gitBlobSha": "c11e71cf3c774cb0668b6ce53df64d0907f2b9a9",
+      "sha256": "4c1b20de645e04ed2068f3dda9fbf418a444cd661ef3803e023d2606203e3be8"
+    },
+    {
+      "path": "public/models/props/p_metal_toolbox_0_r.jpg",
+      "sizeBytes": 96223,
+      "gitBlobSha": "8a16bd64ef7cb4d4fb5e76d985dd9adeae96e7ad",
+      "sha256": "d143b83b93261e086a24c550c91492ccb34ddf740e9cd607b958b2069b044785"
+    },
+    {
+      "path": "public/models/props/p_plastic_jerrycan_0_a.jpg",
+      "sizeBytes": 55495,
+      "gitBlobSha": "8d440c8ebaab2051acd9cd2082fd099f2fb1e8d6",
+      "sha256": "4ed9d3df47d9e94ef295e185c59ae4b4628c2de7333526bec03ffdb0c40aac20"
+    },
+    {
+      "path": "public/models/props/p_plastic_jerrycan_0_n.jpg",
+      "sizeBytes": 51105,
+      "gitBlobSha": "2d4bc0a819803383f09e9ff57ea41dc4cebeb64e",
+      "sha256": "592905dc7584bf9ba014cce495a034f0f3135d712128184429980eb1bee9c020"
+    },
+    {
+      "path": "public/models/props/p_plastic_jerrycan_0_r.jpg",
+      "sizeBytes": 108159,
+      "gitBlobSha": "651f98b03f234d4b9b1734950674351f63657a69",
+      "sha256": "79402265b9bba83b52172b6eab82b95f3b4109962994c7db8ef53a57246c45c5"
+    },
+    {
+      "path": "public/models/props/p_wooden_bucket_01_0_a.jpg",
+      "sizeBytes": 59261,
+      "gitBlobSha": "8a73eb29c9200309b33078f7d6318206231ef2e6",
+      "sha256": "fc1fd6aed5f36bf8f48cd9d39e2029a4151cb2a5194b31cc1b2c2c7d4ecb979b"
+    },
+    {
+      "path": "public/models/props/p_wooden_bucket_01_0_n.jpg",
+      "sizeBytes": 58439,
+      "gitBlobSha": "fd73af1bb0aaa4bf440232a6c2eb33148e35bd5a",
+      "sha256": "e8a4d8b703d244186cad2102734a4e925630f706405d00563b423e4ce5dc5bf9"
+    },
+    {
+      "path": "public/models/props/p_wooden_bucket_01_0_r.jpg",
+      "sizeBytes": 81071,
+      "gitBlobSha": "d68480d56f5f6503544eee091fe325d8c741cfab",
+      "sha256": "0527e1d74bef548a815bb85851ccfd3a64b0fe52e164e9c87caecd983ae0b0b2"
+    },
+    {
+      "path": "public/models/props/p_wooden_crate_01_0_a.jpg",
+      "sizeBytes": 59591,
+      "gitBlobSha": "4eea356ee70eac395d593d8570c025e7d7047b68",
+      "sha256": "253dc7afd546525f6ca2f7547c001b4e5e3e5c97286ebd8b554a6d8d754b33ce"
+    },
+    {
+      "path": "public/models/props/p_wooden_crate_01_0_n.jpg",
+      "sizeBytes": 50512,
+      "gitBlobSha": "e53e116d2bbf80d2de7cefdd838880950c5728f5",
+      "sha256": "fd66fac342b21272db2c0ceff8935ab661099653d974f7037643b60830ca30f4"
+    },
+    {
+      "path": "public/models/props/p_wooden_crate_01_0_r.jpg",
+      "sizeBytes": 75542,
+      "gitBlobSha": "1e377c3a89e24f53918db79b3347801e288f3dc5",
+      "sha256": "352460ee351df1ad2ad649157718b2687aabb880ee17fcb1de949943fc659b27"
+    },
+    {
+      "path": "public/models/props/p_wooden_crate_02_0_a.jpg",
+      "sizeBytes": 63008,
+      "gitBlobSha": "0c7f4d68dea340242092a36ebc40cc57d074e548",
+      "sha256": "b0492b57d1bf940c9c36c54b562b473ea48c28e634dcb336cb03e95ed4ba18a3"
+    },
+    {
+      "path": "public/models/props/p_wooden_crate_02_0_n.jpg",
+      "sizeBytes": 49803,
+      "gitBlobSha": "9f887b7a084813814cb2510e4168138c6f5b059a",
+      "sha256": "e547d3e9753ad185b8877296066c8ae59b236d3b6d9b6ed5a29621340c5108a3"
+    },
+    {
+      "path": "public/models/props/p_wooden_crate_02_0_r.jpg",
+      "sizeBytes": 82037,
+      "gitBlobSha": "6e0875ca9aad25c9959454cc7eeea01d05c5c67a",
+      "sha256": "70c59a9849d791506db4454d31f609f73ea033b50ea0f48b152bc496988d47a4"
+    },
+    {
+      "path": "public/models/props/p_wooden_cutting_board_0_a.jpg",
+      "sizeBytes": 67101,
+      "gitBlobSha": "13c2b1dbf590c18e0ea1c3eddc41a102c0807f31",
+      "sha256": "c06d3d0fbc5c9e00f754d82f676fe1be1053530310cdf5ce624b7c84ff8ecf75"
+    },
+    {
+      "path": "public/models/props/p_wooden_cutting_board_0_n.jpg",
+      "sizeBytes": 48647,
+      "gitBlobSha": "c1bf62c8d5399a863d002ac60b3cdd5626cbb0f5",
+      "sha256": "82a0190810e8e13dbd5156cf058dbb3b0d0120df1aa07ed3dc994fddfe6f97e2"
+    },
+    {
+      "path": "public/models/props/p_wooden_cutting_board_0_r.jpg",
+      "sizeBytes": 27151,
+      "gitBlobSha": "ff69786176179a540ddea5a0db0f992d3a23f3c7",
+      "sha256": "767c3f44efefbee5ce0835bd5fb04e41b903576aa81d9e3fdefb960957af7a67"
+    },
+    {
+      "path": "public/models/props/p_wooden_display_shelves_01_0_a.jpg",
+      "sizeBytes": 47132,
+      "gitBlobSha": "96dd54a5de2fb6419e5696e291a212222babcbd0",
+      "sha256": "1bb3878ca01ccde52e8d051368dee7a67d905431547e218bb10d49d88d7cbb33"
+    },
+    {
+      "path": "public/models/props/p_wooden_display_shelves_01_0_n.jpg",
+      "sizeBytes": 19738,
+      "gitBlobSha": "323e48da575727d41895ddee834986a23a3661e2",
+      "sha256": "809b37bade4475cbc3c93c30b82fbe71194aa8b15e50f0b1dcc79e2c4c0f78cf"
+    },
+    {
+      "path": "public/models/props/p_wooden_display_shelves_01_0_r.jpg",
+      "sizeBytes": 58584,
+      "gitBlobSha": "7afdc38d8c451b32ab0c13c0b9e0a0d12864b69a",
+      "sha256": "43d487b561ecd31da8fea819e48f895a711c5045665fc3e1d78bdaa10b143b14"
+    },
+    {
+      "path": "public/models/props/p_wooden_lantern_01_0_a.jpg",
+      "sizeBytes": 60530,
+      "gitBlobSha": "43e17b7b00133f7c3e47e9a1a74448f689a87464",
+      "sha256": "f4d25f09192b2ad096609ec7917a74e88fc536d37b2f764872f18aa30c9e7cd7"
+    },
+    {
+      "path": "public/models/props/p_wooden_lantern_01_0_n.jpg",
+      "sizeBytes": 70640,
+      "gitBlobSha": "5b8a7e3c694a164d3e8d7ac178334dc318434fad",
+      "sha256": "f0a2d553099e285a47271002808aaf5a672cb57c6d1f5d5601f80da924118a88"
+    },
+    {
+      "path": "public/models/props/p_wooden_lantern_01_0_r.jpg",
+      "sizeBytes": 84421,
+      "gitBlobSha": "1ef1e4e12dce188f914e592a4b77be1820a9a15d",
+      "sha256": "803bd9da03c87b73b66ff3ef00e8a7c6e9a76b335ffb3aac4df0919d3ea847bd"
+    },
+    {
+      "path": "public/models/props/p_wooden_lantern_01_1_a.jpg",
+      "sizeBytes": 27242,
+      "gitBlobSha": "29524af74a7491a57b4b3708c2fefb8fa10ad590",
+      "sha256": "ffab51509e7d89a0f07e763cb663fac7d72e007d8727f394958ca6a5a64ef701"
+    },
+    {
+      "path": "public/models/props/p_wooden_lantern_01_1_n.jpg",
+      "sizeBytes": 10665,
+      "gitBlobSha": "a02e76f8866b68f9f1c216e859a6d2d3bad31fa9",
+      "sha256": "4fdf1b374deb5e9f32ca32d581ad7b83b38519e0a27fb9c2b97d895932bf0754"
+    },
+    {
+      "path": "public/models/props/p_wooden_lantern_01_1_r.jpg",
+      "sizeBytes": 40594,
+      "gitBlobSha": "012f1a5d158c7b0c9d994e0780aceb4a1f9ccbe6",
+      "sha256": "51952435ccc51447b137d116fb717c6539548ab3b1a34056041604af568b530e"
+    },
+    {
+      "path": "public/models/props/props.bin",
+      "sizeBytes": 1988532,
+      "gitBlobSha": "38cd4d4780969a1835acbcdeecc3f5416e3e0b06",
+      "sha256": "f6dbe1c53a94a330f1aae852964aec1d8e4bcd57b04b145df9b1552aa899d486"
+    },
+    {
+      "path": "public/models/props/props.json",
+      "sizeBytes": 3386,
+      "gitBlobSha": "36246dc5949ee583486b986d96c425e82689b375",
+      "sha256": "858b5910c9df36e70d9667e005df080eb0e508484e45ba081fd8aba6fb37ccb5"
+    },
+    {
+      "path": "public/models/props/s_weathered_brown_planks_a.jpg",
+      "sizeBytes": 235038,
+      "gitBlobSha": "1c60a3f192865a75b5f6c6944e8eb7f79808473e",
+      "sha256": "09c4942b3b03b022be607f04ac05d1b832cbb0b32a1faaffe7624be6b1d44df8"
+    },
+    {
+      "path": "public/models/props/s_weathered_brown_planks_n.jpg",
+      "sizeBytes": 246956,
+      "gitBlobSha": "e1e12b23f5f0334f5b733a5382eec974cd7ea7df",
+      "sha256": "1bcae3fa86c68a4d9ce82bf90e1cf6cbf9af7fe6a1c15aef09fa79c18f9308ff"
+    },
+    {
+      "path": "public/models/props/s_weathered_brown_planks_r.jpg",
+      "sizeBytes": 224089,
+      "gitBlobSha": "c3ea399bb471ff773f573b086fde365ee05172e0",
+      "sha256": "f562c608e9ea0a9efda3a08c2e3109f496ecd9d2c15f3d9286ba3c0e12e27afa"
+    },
+    {
+      "path": "public/models/props/s_weathered_peeling_timber_a.jpg",
+      "sizeBytes": 322180,
+      "gitBlobSha": "bbbf53d00d4c926afcd37544f3f681dae65e2148",
+      "sha256": "8021a167f79461bf3edff76d277b0770bb55bc56e75a33321a40eaff0014253f"
+    },
+    {
+      "path": "public/models/props/s_weathered_peeling_timber_n.jpg",
+      "sizeBytes": 220254,
+      "gitBlobSha": "278989078ebcbfaf9cf7f5f0c41b371870c877e5",
+      "sha256": "885759fd46ad21bdb72fd21460f07ba448865207b3fd2cc39ab4fbc91b24232d"
+    },
+    {
+      "path": "public/models/props/s_weathered_peeling_timber_r.jpg",
+      "sizeBytes": 217262,
+      "gitBlobSha": "52c359d0dae38e52ade2c8d432578d6d2f874a5a",
+      "sha256": "69b9b3d1ffda28e6824f2e5cac0c4f361c54d343d206b861d37e19234b30f9fc"
+    },
+    {
+      "path": "public/models/props/s_weathered_planks_a.jpg",
+      "sizeBytes": 166512,
+      "gitBlobSha": "b85714c7a41334e4883118da910a1be512d838af",
+      "sha256": "0517c5c7e79c378bb03bd35e44f3e2216cdd184a085599e7effb1371b7c8845a"
+    },
+    {
+      "path": "public/models/props/s_weathered_planks_n.jpg",
+      "sizeBytes": 206585,
+      "gitBlobSha": "a45e67cc6b953275eb051a2469aa6290a6605320",
+      "sha256": "2205263952e3f58d4d1736afa0b884dc506f223641bbe10ee613d49f830e6cf6"
+    },
+    {
+      "path": "public/models/props/s_weathered_planks_r.jpg",
+      "sizeBytes": 125165,
+      "gitBlobSha": "4db127f427508a494afcd367e10230c03f849583",
+      "sha256": "404a5ad3a39b45036f405d48859248e5c60cce12ee6c62396cd26a20f4cd6f52"
+    },
+    {
+      "path": "public/models/props/s_worn_corrugated_iron_a.jpg",
+      "sizeBytes": 277831,
+      "gitBlobSha": "bfb9706b727222f5d26dc39dc4545e12196f2619",
+      "sha256": "19c86b80696d51760acc3d4e542401c1c5c66ee7e7f128e4c9454cb0d47578c6"
+    },
+    {
+      "path": "public/models/props/s_worn_corrugated_iron_n.jpg",
+      "sizeBytes": 413288,
+      "gitBlobSha": "32c36de0eda16defa0fb31ee83bafbb2ab3f5d5b",
+      "sha256": "c4296e5fc64d702243e66367ccbab9b22a408ad46d19fddf39542eaffc4681d2"
+    },
+    {
+      "path": "public/models/props/s_worn_corrugated_iron_r.jpg",
+      "sizeBytes": 195035,
+      "gitBlobSha": "c79fdde9896e7cb144d6e0e4a32e4129dc181286",
+      "sha256": "baa6ab87bfc3bfb4fea34d415e69ba742d89956a627e8f203afb64f187fa1524"
+    },
+    {
+      "path": "public/models/props/signs.png",
+      "sizeBytes": 213027,
+      "gitBlobSha": "84928f108aa8acb4c651bad0180f6b10b737f216",
+      "sha256": "1e630e3e7b679f1f322ba3f3441f093d510adb7ebef29b10902b330d74d969f2"
+    },
+    {
+      "path": "public/models/whale/humpback.bin",
+      "sizeBytes": 3469416,
+      "gitBlobSha": "29b235f9c1c8a532811d597884b87080aece1226",
+      "sha256": "b3a31801a393489331bc3dd4fd5be64cbad32ac4e159f5180e0eb028d489a92d"
+    },
+    {
+      "path": "public/models/whale/humpback.json",
+      "sizeBytes": 4106,
+      "gitBlobSha": "991e934bada71e39c13fadd1ab069782dacdb704",
+      "sha256": "c47390c365da1c8c6fa73bea4996bf51073a973770c1942e8993f545e283a354"
+    },
+    {
+      "path": "public/models/whale/humpback_albedo.png",
+      "sizeBytes": 4289686,
+      "gitBlobSha": "a81c8713cf21711506a40ce24f0d0e0e879a6f46",
+      "sha256": "5daaa6727f5304aaa3b6f6ef86cedcebc7cf922376a5c0e7caad66c4f4a5efe1"
+    },
+    {
+      "path": "public/models/whale/humpback_height.png",
+      "sizeBytes": 12896017,
+      "gitBlobSha": "4e99d41d83a24621946dee3561288454d7966759",
+      "sha256": "5e18fbff0aa0034519d149c245d515f75011e7dd4f626dbd1a5e97eea79b66b5"
+    },
+    {
+      "path": "public/textures/cave/CREDITS.md",
+      "sizeBytes": 625,
+      "gitBlobSha": "5c22273ee67888e26ca92cd3c8b42ff4965c5f87",
+      "sha256": "c090ec44d7faab7f10bc9f3dac92751a4bfccf810cf28ab9196fabd6892d5105"
+    },
+    {
+      "path": "public/textures/cave/albedo.jpg",
+      "sizeBytes": 859211,
+      "gitBlobSha": "0f0fbb9c460427646074b981546108043a9f25da",
+      "sha256": "20f653a42fb24f42aa40641663070d578678da49af18cc1049dbdd4ed8679f3c"
+    },
+    {
+      "path": "public/textures/cave/arm.jpg",
+      "sizeBytes": 784728,
+      "gitBlobSha": "ce49e669ef461cd2597c5b0570fdfad07c2e7aca",
+      "sha256": "350d01c63afc01cd9bcb9bc47afdd24292198ff1c5fcef1c49281c1b85dc2872"
+    },
+    {
+      "path": "public/textures/cave/normal.jpg",
+      "sizeBytes": 802497,
+      "gitBlobSha": "1da8c4ef6c0796438fb3f4eed35aa52f0e47874e",
+      "sha256": "5915fea28a97357c78a04fb31c2516f1f7ed1b3a9cef4ae25aa93e4655e6c595"
+    },
+    {
+      "path": "public/textures/portal-warehouse/CREDITS.md",
+      "sizeBytes": 712,
+      "gitBlobSha": "21bc3efb0b2ca62180978fc0803154100ffd31d4",
+      "sha256": "b021a9564d9c86123a9c6da668d55b6c1348a57777954d99b5c1881ceb988284"
+    },
+    {
+      "path": "public/textures/portal-warehouse/brick_wall_001_arm_1k.jpg",
+      "sizeBytes": 123384,
+      "gitBlobSha": "b93b484b9ad3a37cb057ae215175cf8bc0cda3a2",
+      "sha256": "8e6ab4cecd82c4305c9511065b0795bd579df89df8364a76a7359c1278bed38d"
+    },
+    {
+      "path": "public/textures/portal-warehouse/brick_wall_001_diffuse_1k.jpg",
+      "sizeBytes": 574381,
+      "gitBlobSha": "45db37bca054d7801aa484fd0748bb7e612ae31c",
+      "sha256": "6a1233ec0186703de830354d89f122991e61e67fb67e0846c7eaf6c5aefea902"
+    },
+    {
+      "path": "public/textures/portal-warehouse/brick_wall_001_nor_gl_1k.jpg",
+      "sizeBytes": 295279,
+      "gitBlobSha": "6efb9d33a7561e91fd7b6a9648cda6faae6f7b94",
+      "sha256": "8afbe3919308b168a6b7235fe7b930f670cfffa1a34de39ee790d55c9d7bda09"
+    },
+    {
+      "path": "public/textures/portal-warehouse/concrete_floor_arm_1k.jpg",
+      "sizeBytes": 614195,
+      "gitBlobSha": "1e46aa227682f60237ccf947a8fce571313513c9",
+      "sha256": "626b3f6bf3e7ac4793b569af87fc7e15cd375a59ff121654a0a4b67d9907878f"
+    },
+    {
+      "path": "public/textures/portal-warehouse/concrete_floor_diff_1k.jpg",
+      "sizeBytes": 927975,
+      "gitBlobSha": "a1292824f530575dd3af56f1638fbee2737e0e3c",
+      "sha256": "5e06d0fb226f671470f59bf7798954b6965c9ed56dd45084dfd012e15737e444"
+    },
+    {
+      "path": "public/textures/portal-warehouse/concrete_floor_nor_gl_1k.jpg",
+      "sizeBytes": 883889,
+      "gitBlobSha": "fb3b725004258a25fb28e25666d5e0b00914933e",
+      "sha256": "5a403c176361193b785198ab363d3dc3755773ca5b023f19e05874e50caea302"
+    },
+    {
+      "path": "public/textures/portal-warehouse/fabric_soft_black_diffuse_512.jpg",
+      "sizeBytes": 81066,
+      "gitBlobSha": "c4006c0ddc057a67ffde901e2341f7b66b522553",
+      "sha256": "ac7ccb166dd8cb95e2f39cb0a4d39fc337053a1cc4d097c3483f97e555d05257"
+    },
+    {
+      "path": "public/textures/portal-warehouse/fabric_soft_black_nor_gl_512.jpg",
+      "sizeBytes": 151907,
+      "gitBlobSha": "4f2c53159b01cbd71539386bc00587367c2669c1",
+      "sha256": "fbc7ea3a34edee8845893d71f757cbff18b3d31a836bf669a819886191ccd1a0"
+    },
+    {
+      "path": "public/textures/portal-warehouse/fabric_soft_black_roughness_512.jpg",
+      "sizeBytes": 80468,
+      "gitBlobSha": "a8f9f9b340643f513bd23ea86e21bb5647f4ccb6",
+      "sha256": "7ea48ae57fb31fc35b03ea478b7a145a76d01990cd9a6d55c5ee5bbe1c12dff8"
+    },
+    {
+      "path": "public/textures/vegetation/CREDITS.md",
+      "sizeBytes": 981,
+      "gitBlobSha": "700a22f27d45be93bd0de1fd9adddfeb2a44a4b5",
+      "sha256": "38d6186cae8a532142c4b22d5edb2a3f963f1c75a66afc523d10612fc3dabdbd"
+    },
+    {
+      "path": "public/textures/vegetation/palm_tree_bark-Diffuse.jpg",
+      "sizeBytes": 200145,
+      "gitBlobSha": "07650b5dae158d123e6fe01d19f7bce085f1d209",
+      "sha256": "032d87dde81128fd52e24c73662b65527d8d541dc6d1582f7f9dcac6fc51a9d0"
+    },
+    {
+      "path": "public/textures/vegetation/palm_tree_bark-arm.jpg",
+      "sizeBytes": 111198,
+      "gitBlobSha": "358874275139002e4c6b6a4a3b31d85d791e2bdd",
+      "sha256": "0852a59277db1555854bcd6f225c2625ce97038707a449bd6ee4299e5ec9e2d5"
+    },
+    {
+      "path": "public/textures/vegetation/palm_tree_bark-nor_gl.jpg",
+      "sizeBytes": 65064,
+      "gitBlobSha": "80401900ef920eb32536b2350c262b98f4dfc3a5",
+      "sha256": "d669cb270a9e516da83c71f61538ce1aaa443fae7943138a932973bc76392f54"
+    },
+    {
+      "path": "public/textures/vegetation/tree_bark_03-Diffuse.jpg",
+      "sizeBytes": 400897,
+      "gitBlobSha": "81a6daf971c12590a038a1609f0c63025a4be63a",
+      "sha256": "a4ae66cdc2b2e4b4c963691c5891cd80a3101a7a8a48b8b580e3158306820e27"
+    },
+    {
+      "path": "public/textures/vegetation/tree_bark_03-arm.jpg",
+      "sizeBytes": 237779,
+      "gitBlobSha": "02b57a3a32d08db7b20292d9076f8887a7f126ae",
+      "sha256": "d6e6b05d71ee054d52e62481f2b4de8d7d94806cb2bffce6496a95d2e5ed519e"
+    },
+    {
+      "path": "public/textures/vegetation/tree_bark_03-nor_gl.jpg",
+      "sizeBytes": 450772,
+      "gitBlobSha": "71e2dc182b8b2288c4042b67a517f87dce951ee0",
+      "sha256": "74a2d057af3a4da638567f3c9574ffecedb0e42d18cd1a5684d4e69e6abc9d39"
+    },
+    {
+      "path": "tools/audio/fishing-bank.json",
+      "sizeBytes": 2273,
+      "gitBlobSha": "e4611af9f79b147a14a9f19499e8956153248fdf",
+      "sha256": "35a1526c393e1f1ba1b01f7c31c5aada3c87f1b40dc26c699126fc897a06f53a"
+    },
+    {
+      "path": "tools/island_five/agent-control-island-five-v1.json",
+      "sizeBytes": 691,
+      "gitBlobSha": "3f65af979f621f469836d3e603fd6ee6c6969778",
+      "sha256": "b2d3e15018bf449390c77b4beb5d6562337ed17abe33850659fe9da5effded7f"
+    },
+    {
+      "path": "tools/outer_islands/island-biome-recreation-v1.json",
+      "sizeBytes": 1013,
+      "gitBlobSha": "f50cfc86106debc84565b3808460d8cfb785c065",
+      "sha256": "93049fa18fa4e7a35d088e0ab6ea7f7738ae09239fcb14bb123cf115ef07ec3b"
+    },
+    {
+      "path": "tools/outer_islands/island-four-villa-v1.json",
+      "sizeBytes": 1217,
+      "gitBlobSha": "f5374d639e00db6b544701702da619e9a66fc526",
+      "sha256": "ee654f63923c9d4909bf0720eefe1200533875ca5e1bdb5343e01b11c52c595f"
+    },
+    {
+      "path": "tools/portal_interior/blendkit-reference-v1.json",
+      "sizeBytes": 2809,
+      "gitBlobSha": "9a5ce6c267b56ace3086b6e8274c478dd7c45f47",
+      "sha256": "bf2bd583fd7f1e9367cbafa50c171565a378455b26d6a2626be4334a079754df"
+    },
+    {
+      "path": "tools/portal_interior/reference-detail-v1.json",
+      "sizeBytes": 3683,
+      "gitBlobSha": "521f3b47181311fe3ce80e4ab137bee331c2d973",
+      "sha256": "52767935c73050fed16a982bcbc5f279730fce1e125e8f156e6b10bdf320ea06"
+    }
+  ]
+}

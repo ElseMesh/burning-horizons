@@ -1,9 +1,9 @@
 # Burning Horizons world content
 
 This repository contains the authored UNDERNEATH cave package and its source
-assets. It is content data, not a standalone application or buildable game.
-It is maintained independently from the ElseMesh engine and the Tidewater
-example world.
+assets, plus a pinned source snapshot of additional world content for authoring.
+It is content data, not a standalone application or buildable game. It is
+maintained independently from the ElseMesh engine and Tidewater example world.
 
 ## Repository map
 
@@ -21,6 +21,10 @@ example world.
   `source/README-audio.md` carries its source and credit notes.
 - `lod-source/cave-low.glb` is the lower-detail mesh input used to make the
   runtime LOD asset.
+- `source/upstream-loz/` contains world models, audio, texture sets, credits,
+  design briefs, and authoring data from a pinned Loz snapshot. Its manifest
+  records provenance and hashes. Runtime engine modules are excluded; these
+  materials are not yet integrated into the loadable cave package.
 
 ElseMesh implements and validates versioned runtime behavior. Exporters,
 schemas, and package tools live in the [ElseMesh engine repository](https://github.com/ElseMesh/elsemesh.github.io),
