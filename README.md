@@ -50,4 +50,5 @@ manually. It mirrors branches from `lozknowles/ElseMesh` and
 `lozknowles/ElseMesh-preview` into this repository under `loz/` refs, preserving
 replaced and deleted tips under `archive/loz-preserved/`. These are Git refs
 for source tracking; they do not add upstream application files to the
-Burning Horizons content package.
+Burning Horizons content package or establish project direction. Treat upstream
+engine changes as candidates for separate review.
